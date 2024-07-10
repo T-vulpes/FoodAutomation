@@ -1,3 +1,17 @@
+mid-level food ordering automation example.
+You can order food, pay for your order and download the invoice. You can view the status of your order and view past orders and payments.
+
+You can also view all users and orders from the admin panel and make updates about them. 
+You can authorize any user as an administrator and allow them to access the admin panel.
+
+-----
+
+orta seviye yemek siparişi otomasyon örneği.
+Yemek sipariş edebilir, siparişinizin ödemesini yapabilir ve faturayı indirebilirsiniz. Siparişinizin durumunu görüntüleyebilir, geçmiş siparişleri ve ödemeleri görüntüleyebilirsiniz.
+
+Ayrıca admin panelinden tüm kullanıcıları ve siparişleri görüntüleyebilir, onlar hakkında güncellemeler yapabilirsiniz. 
+İstediğiniz kullanıcıyı yönetici olarak yetkilendirebilir ve yönetici paneline erişmesine izin verebilirsiniz.
+
 user name: admin
 password: admin
 
