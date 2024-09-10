@@ -1,20 +1,54 @@
-mid-level food ordering automation example.
-You can order food, pay for your order and download the invoice. You can view the status of your order and view past orders and payments.
+## Mid-Level Food Ordering Automation Example
 
-You can also view all users and orders from the admin panel and make updates about them. 
-You can authorize any user as an administrator and allow them to access the admin panel.
+This is a mid-level example of a food ordering automation system. The application allows users to:
 
------
+- Order food and make payments
+- Download invoices for their orders
+- Track the status of current orders
+- View their past orders and payments
 
-orta seviye yemek siparişi otomasyon örneği.
-Yemek sipariş edebilir, siparişinizin ödemesini yapabilir ve faturayı indirebilirsiniz. Siparişinizin durumunu görüntüleyebilir, geçmiş siparişleri ve ödemeleri görüntüleyebilirsiniz.
+### Admin Features:
 
-Ayrıca admin panelinden tüm kullanıcıları ve siparişleri görüntüleyebilir, onlar hakkında güncellemeler yapabilirsiniz. 
-İstediğiniz kullanıcıyı yönetici olarak yetkilendirebilir ve yönetici paneline erişmesine izin verebilirsiniz.
+From the admin panel, authorized users can:
 
-user name: admin
-password: admin
+- View and manage all users and orders
+- Update order statuses or user information
+- Authorize any user as an admin, granting them access to the admin panel
 
-users:
-user name:tugba
-password:12345
+### Demo Credentials:
+
+- **Admin Access:**
+  - Username: `admin`
+  - Password: `admin`
+
+- **User Access:**
+  - Username: `tugba`
+  - Password: `12345`
+
+---
+
+### Orta Seviye Yemek Siparişi Otomasyon Örneği
+
+Bu orta seviye yemek siparişi otomasyon örneği, aşağıdaki işlemleri yapmanıza olanak tanır:
+
+- Yemek siparişi verebilir ve ödemesini yapabilirsiniz
+- Sipariş faturalarını indirebilirsiniz
+- Mevcut sipariş durumunu takip edebilir ve geçmiş siparişler ile ödemeleri görüntüleyebilirsiniz
+
+### Yönetici Özellikleri:
+
+Admin panelinden yetkilendirilen kullanıcılar:
+
+- Tüm kullanıcıları ve siparişleri görüntüleyip yönetebilir
+- Sipariş durumlarını veya kullanıcı bilgilerini güncelleyebilir
+- İstediğiniz kullanıcıyı yönetici olarak yetkilendirip, admin paneline erişim sağlayabilirsiniz
+
+### Demo Giriş Bilgileri:
+
+- **Admin Girişi:**
+  - Kullanıcı adı: `admin`
+  - Şifre: `admin`
+
+- **Kullanıcı Girişi:**
+  - Kullanıcı adı: `tugba`
+  - Şifre: `12345`
