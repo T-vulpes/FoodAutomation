@@ -1,4 +1,4 @@
-#Mid-Level Food Ordering Automation Example
+Mid-Level Food Ordering Automation Example
 
 This is a mid-level example of a food ordering automation system. The application allows users to:
 
@@ -7,7 +7,7 @@ This is a mid-level example of a food ordering automation system. The applicatio
 - Track the status of current orders
 - View their past orders and payments
 
-# Admin Features:
+ Admin Features:
 
 From the admin panel, authorized users can:
 
@@ -15,37 +15,37 @@ From the admin panel, authorized users can:
 - Update order statuses or user information
 - Authorize any user as an admin, granting them access to the admin panel
 
-# Demo Credentials:
+ Demo Credentials:
 
 - Admin Access:
   - Username: `admin`
-  - Password: `admin`
+  - Password: admin
 
 - User Access:
   - Username: `tugba`
-  - Password: `12345`
+  - Password: 12345
 
----
+-------
 
-# Orta Seviye Yemek Siparişi Otomasyon Örneği
+ Orta Seviye Yemek Siparişi Otomasyon Örneği
 
 Bu orta seviye yemek siparişi otomasyon örneği, aşağıdaki işlemleri yapmanıza olanak tanır:
 - Yemek siparişi verebilir ve ödemesini yapabilirsiniz
 - Sipariş faturalarını indirebilirsiniz
 - Mevcut sipariş durumunu takip edebilir ve geçmiş siparişler ile ödemeleri görüntüleyebilirsiniz
 
-# Yönetici Özellikleri:
+ Yönetici Özellikleri:
 Admin panelinden yetkilendirilen kullanıcılar:
 - Tüm kullanıcıları ve siparişleri görüntüleyip yönetebilir
 - Sipariş durumlarını veya kullanıcı bilgilerini güncelleyebilir
 - İstediğiniz kullanıcıyı yönetici olarak yetkilendirip, admin paneline erişim sağlayabilirsiniz
 
-# Demo Giriş Bilgileri:
+ Demo Giriş Bilgileri:
 
 - Admin Girişi:
   - Kullanıcı adı: `admin`
-  - Şifre: `admin`
+  - Şifre: admin
 
 - Kullanıcı Girişi:
   - Kullanıcı adı: `tugba`
-  - Şifre: `12345`
+  - Şifre: 12345
