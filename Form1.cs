@@ -27,8 +27,6 @@ namespace yemekotomasyonu
         private void Button4_Click(object sender, EventArgs e)
         {
             kayıtol kayitForm = new kayıtol();
-
-            // "kayıtol" formunu göster
             kayitForm.Show();
         }
         private void Button3_Click(object sender, EventArgs e)
